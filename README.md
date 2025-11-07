@@ -2,7 +2,7 @@
 
 # 🚀 I am Saathvik Kalepu | Full-Stack Developer & AI Specialist
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel)](https://sunny18-max.github.io/sunny-portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel)](https://sunny-portfolio-inky.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saathvik-kalepu-17041228b/)
 [![GitHub Followers](https://img.shields.io/github/followers/sunny18-max?label=Follow&style=for-the-badge&logo=github)](https://github.com/sunny18-max)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:saathvik202@gmail.com)
