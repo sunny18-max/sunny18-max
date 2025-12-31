@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saathvik Kalepu  
+# Hi, I'm Saathvik Kalepu  
 ### Full-Stack Developer | AI & ML Engineer | System Design Enthusiast
 
 <p align="center">
@@ -94,7 +94,7 @@ I focus on:
 | **AI Supply Chain Optimizer** | Cost-optimized logistics using LP models | Python, PuLP, Tableau | 🔗 [GitHub](https://github.com/sunny18-max/supply-chain-optimizer) |
 | **Sunny AI Assistant** | Voice-controlled AI automation system | Python, NLP, Speech Recognition | 🔗 [GitHub](https://github.com/sunny18-max/sunny-assistant) |
 | **Mental Wellness PWA** | Mood tracking & guided meditation app | JavaScript, PWA, CSS | 🔗 [Live](https://sunny18-max.github.io/mental-wellness/) |
-| **AI Study Assistant** | PDF summarizer & question generator | Python, OpenAI, Flask | 🔗 GitHub |
+| **Unicounsel** | A personalized builtn palform for student counsiling  | Python, OpenAI, Flask | 🔗 [GitHub](https://unicounsel.vercel.app/) |
 
 🔍 **More Projects:**  
 ➡️ https://github.com/sunny18-max?tab=repositories
@@ -137,9 +137,6 @@ Indian Institute of Information Technology, Kurnool
 📍 **Location:** Hyderabad, India  
 
 <p align="center">
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" />
-  </a>
   <a href="https://www.instagram.com/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
