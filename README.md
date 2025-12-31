@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there
 
-# 🚀 I am Saathvik Kalepu | Full-Stack Developer & AI Specialist
+# I am Saathvik Kalepu | Full-Stack Developer & AI Specialist
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge&logo=vercel)](https://sunny-portfolio-inky.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saathvik-kalepu-17041228b/)
