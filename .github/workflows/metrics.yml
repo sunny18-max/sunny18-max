@@ -1,4 +1,4 @@
-name: GitHub Metrics (Streak Style)
+name: GitHub Metrics (Clean)
 
 on:
   schedule:
@@ -12,22 +12,27 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate streak-style metrics
+      - name: Generate clean metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           user: sunny18-max
 
-          # --- Minimal template ---
-          template: terminal
-          base: ""
+          # ✅ Use safe classic template
+          template: classic
+          base: header
 
-          # --- Streaks only ---
+          # ✅ Enable streaks
           plugin_streak: yes
 
-          # --- Appearance ---
-          config_display: large
-          config_padding: 16
+          # ❌ Disable noisy stuff
+          plugin_activity: no
+          plugin_languages: no
+          plugin_achievements: no
+          plugin_isocalendar: no
+
+          # 🎨 Styling
           config_timezone: Asia/Kolkata
           config_theme: dark
+          config_padding: 16
