@@ -104,9 +104,7 @@ I focus on:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunny18-max&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunny18-max&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com/?user=sunny18-max&theme=radical&hide_border=true" />
+  <img src="https://camo.githubusercontent.com/47d1629a2aa731b17c1e032bcecb82b6c95b9fcd2937a1bdadd6112c8098b299/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d486f6f726d616c61417273686164267468656d653d6461726b26686964655f626f726465723d66616c7365" />
 </p>
 
 ---
