@@ -132,7 +132,7 @@ I specialize in:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sunny18-max&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=sunny18-max&theme=tokyonight&hide_border=true"
   />
 </p>
 
